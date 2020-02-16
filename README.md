@@ -1,1 +1,1 @@
-# rsschool-cv
+https://eugenefacecontrol.github.io/rsschool-cv/cv
