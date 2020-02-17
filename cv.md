@@ -51,7 +51,7 @@ Environment:
 *	MS Visual Studio 2015, Xamarin, Jenkins
 *	MS Visual Studio, Regular Expressions, Xpath 2.0, C#, Git, NUnit, Jira, WPF
 ## EDUCATION
-*Name of the Education Establishment*: Belarusian State University of Informatics and Radioelectronics
+**Name of the Education Establishment**: Belarusian State University of Informatics and Radioelectronics
 **Faculty/College**: Engineering And Economics
 **Degree** (diploma): Bachelor
 **Specialty**: Economics of Electronic Business
